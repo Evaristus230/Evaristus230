@@ -40,7 +40,7 @@ Here are some of my recent projects — built to solve real problems, not just f
 
 📧 Email: okwor4chidubem@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/okwor-evaristus-a83273147 
-📄 CV: [View My CV]https://drive.google.com/file/d/1FqTPPZ9XgN7A1pXMCE3abewks0VpZUy7/view?usp=drivesdk
+📄 CV: https://drive.google.com/file/d/1FqTPPZ9XgN7A1pXMCE3abewks0VpZUy7/view?usp=drivesdk
 
 ---
 
