@@ -45,9 +45,4 @@ Here are some of my recent projects — built to solve real problems, not just f
 ---
 
 > *“Security isn’t about perfect tools — it’s about understanding systems, asking the right questions, and communicating clearly.”*
->
-> ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Evaristus230&show_icons=true&theme=react-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristus230&layout=compact&theme=react-dark)
