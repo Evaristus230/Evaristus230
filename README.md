@@ -3,7 +3,7 @@
   🔐 Focused on offensive security, automation, and clear technical communication
 -->
 
-# 👋 Hi, I'm Evaristus
+# 👋 Hi, I'm Okwor Chidubem Evaristus
 
 > **Cybersecurity Practitioner | Penetration Tester | Infrastructure Defender**  
 > Building hands-on labs, automating recon workflows, and documenting findings for real-world impact.
