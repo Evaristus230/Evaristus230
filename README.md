@@ -22,38 +22,37 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### 🔹 [Realistic Credential Traffic Generator for Wireshark Training](https://github.com/Evaristus230/wireshark-traffic-simulator)
+These are tools I’ve built to turn theory into hands-on skill — each links to a dedicated repo with full docs, setup, and use cases.
 
+### 🔹 [Realistic Credential Traffic Generator for Wireshark Training](https://github.com/Evaristus230/wireshark-traffic-simulator)  
 > A **production-grade traffic simulator** that generates *authentic, multi-protocol login flows* — designed to train analysts in spotting credential exposure, protocol quirks, and attack patterns **in real packet captures**.
 
-🛠️ **What it simulates — safely & ethically**:
+🛠️ **What it simulates — safely & ethically**:  
 - ✅ HTTP POST logins (e.g., web forms)  
 - ✅ Basic/Digest/NTLM auth (Base64, challenge-response)  
 - ✅ FTP, Telnet, SMTP, IMAP — **cleartext credentials**  
 - ✅ LDAP binds, MySQL/PostgreSQL auth, SMB sessions  
 - ✅ JWT, API keys, fake RDP/VNC handshakes  
 
-🔐 **Key Features**:
-- Generates **19+ protocol flows** with *realistic usernames/passwords* (all fake, no risk)  
-- Mimics human timing (pauses, retries, errors) → no robotic traffic  
-- Works out-of-the-box on **Parrot Linux** (no external dependencies beyond `requests` & `scapy`)  
+🔐 **Key Features**:  
+- Generates **19+ protocol flows** with *realistic fake credentials*  
+- Mimics human timing → no robotic traffic  
+- Works out-of-the-box on **Parrot Linux**  
 - Used in my internal lab training to teach **packet-level threat hunting**
 
-📥 **Get Started**:
-```bash
-git clone https://github.com/Evaristus230/wireshark-traffic-simulator
-cd wireshark-traffic-simulator
-pip3 install -r requirements.txt
-sudo python3 enterprise_cred_simulator.py
+📥 **Try it now** → [Full Setup Guide + Demo Filters](https://github.com/Evaristus230/wireshark-traffic-simulator)
 
-### 📬 Let's Connect
-📧 Email: okwor4chidubem@gmail.com
-🔗 LinkedIn: linkedin.com/in/okwor-evaristus-a83273147
-📄 CV: Download PDF
+---
 
+## 📬 Let's Connect
 
+📧 **Email**: [okwor4chidubem@gmail.com](mailto:okwor4chidubem@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/okwor-evaristus-a83273147](https://www.linkedin.com/in/okwor-evaristus-a83273147)  
+📄 **CV**: [Download PDF](https://drive.google.com/file/d/1FqTPPZ9XgN7A1pXMCE3abewks0VpZUy7/view?usp=drivesdk)
 
+---
 
-
+> *“Security isn’t about perfect tools — it’s about understanding systems, asking the right questions, and communicating clearly.”*  
+> — I design tools that **teach by doing**. Because in cyber, **capturing is understanding**.
