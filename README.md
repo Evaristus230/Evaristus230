@@ -47,3 +47,13 @@ git clone https://github.com/Evaristus230/wireshark-traffic-simulator
 cd wireshark-traffic-simulator
 pip3 install -r requirements.txt
 sudo python3 enterprise_cred_simulator.py
+
+### 📬 Let's Connect
+📧 Email: okwor4chidubem@gmail.com
+🔗 LinkedIn: linkedin.com/in/okwor-evaristus-a83273147
+📄 CV: Download PDF
+
+
+
+
+
