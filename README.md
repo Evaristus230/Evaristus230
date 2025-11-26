@@ -1,12 +1,12 @@
 <!-- 
-  👋 Hi, I'm Evaristus — Cybersecurity Practitioner & Lab Builder
+  👋 Hi, I'm Chidubem — Cybersecurity Practitioner & Lab Builder
   🔐 Focused on offensive security, automation, and clear technical communication
 -->
 
 # 👋 Hi, I'm Okwor Chidubem Evaristus
 
-> **Cybersecurity Practitioner | Penetration Tester | Infrastructure Defender**  
-> Building hands-on labs, automating recon workflows, and documenting findings for real-world impact.
+> **Cybersecurity Practitioner | Threat Emulator | Technical Educator**  
+> I build realistic lab environments and automation tools that mirror real-world attack flows — because **you can’t defend what you haven’t seen**.
 
 ---
 
@@ -18,31 +18,32 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-5700FF?logo=burpsuite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
-Here are some of my recent projects — built to solve real problems, not just follow tutorials.
+### 🔹 [Realistic Credential Traffic Generator for Wireshark Training](https://github.com/Evaristus230/wireshark-traffic-simulator)
 
-### 🔹 [Self-Contained Pentest Lab](https://github.com/Evaristus230/cyber-lab-env)
-> Dockerized lab with OWASP Juice Shop, DVWA, ZAP, and Burp — designed for repeatable recon & exploitation practice.
+> A **production-grade traffic simulator** that generates *authentic, multi-protocol login flows* — designed to train analysts in spotting credential exposure, protocol quirks, and attack patterns **in real packet captures**.
 
-### 🔹 [Directory Discovery Response Analyzer](https://github.com/Evaristus230/http-status-inspector)
-> Python script that categorizes HTTP responses during directory brute-forcing — helps avoid false negatives.
+🛠️ **What it simulates — safely & ethically**:
+- ✅ HTTP POST logins (e.g., web forms)  
+- ✅ Basic/Digest/NTLM auth (Base64, challenge-response)  
+- ✅ FTP, Telnet, SMTP, IMAP — **cleartext credentials**  
+- ✅ LDAP binds, MySQL/PostgreSQL auth, SMB sessions  
+- ✅ JWT, API keys, fake RDP/VNC handshakes  
 
-### 🔹 [Technical Tutorials](https://github.com/Evaristus230/cyber-tutorials)
-> Step-by-step guides on using tools like gobuster, sqlmap, and hping3 — written for beginners who want to understand *why*, not just *how*.
+🔐 **Key Features**:
+- Generates **19+ protocol flows** with *realistic usernames/passwords* (all fake, no risk)  
+- Mimics human timing (pauses, retries, errors) → no robotic traffic  
+- Works out-of-the-box on **Parrot Linux** (no external dependencies beyond `requests` & `scapy`)  
+- Used in my internal lab training to teach **packet-level threat hunting**
 
----
-
-## 📬 Let's Connect
-
-📧 Email: okwor4chidubem@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/okwor-evaristus-a83273147 
-📄 CV: https://drive.google.com/file/d/1FqTPPZ9XgN7A1pXMCE3abewks0VpZUy7/view?usp=drivesdk
-
----
-
-> *“Security isn’t about perfect tools — it’s about understanding systems, asking the right questions, and communicating clearly.”*
-
+📥 **Get Started**:
+```bash
+git clone https://github.com/Evaristus230/wireshark-traffic-simulator
+cd wireshark-traffic-simulator
+pip3 install -r requirements.txt
+sudo python3 enterprise_cred_simulator.py
