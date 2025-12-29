@@ -46,7 +46,7 @@ These are tools I’ve built to turn theory into hands-on skill — each links t
 
 ---
 
-### [Comprehensive Nessus Vulnerability Assessment Lab] (https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
+### 🔹[Comprehensive Nessus Vulnerability Assessment Lab] (https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
 A methodical, real-world-aligned vulnerability scanning project using Tenable Nessus to assess multi-OS environments — designed to teach risk prioritization, CVSS interpretation, and remediation strategy through hands-on analysis of exploitable flaws.
 
 🛠️ What it covers — ethically & in isolation:
