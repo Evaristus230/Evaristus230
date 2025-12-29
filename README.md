@@ -1,12 +1,6 @@
-<!-- 
-  👋 Hi, I'm Chidubem — Cybersecurity Practitioner & Lab Builder
-  🔐 Focused on offensive security, automation, and clear technical communication
--->
-
 # 👋 Hi, I'm Okwor Chidubem Evaristus
 
-> **Cybersecurity Practitioner | Threat Emulator | Technical Educator**  
-> I build realistic lab environments and automation tools that mirror real-world attack flows — because **you can’t defend what you haven’t seen**.
+> **Cybersecurity Practitioner | Threat Emulator | Technical Educator** > I build realistic lab environments and automation tools that mirror real-world attack flows — because **you can’t defend what you haven’t seen**.
 
 ---
 
@@ -32,43 +26,36 @@ These are tools I’ve built to turn theory into hands-on skill — each links t
 🛠️ **What it simulates — safely & ethically**:  
 - ✅ HTTP POST logins (e.g., web forms)  
 - ✅ Basic/Digest/NTLM auth (Base64, challenge-response)  
-- ✅ FTP, Telnet, SMTP, IMAP — **cleartext credentials**  
-- ✅ LDAP binds, MySQL/PostgreSQL auth, SMB sessions  
+- ✅ FTP, Telnet, SMTP, IMAP — **cleartext credentials** - ✅ LDAP binds, MySQL/PostgreSQL auth, SMB sessions  
 - ✅ JWT, API keys, fake RDP/VNC handshakes  
 
 🔐 **Key Features**:  
-- Generates **19+ protocol flows** with *realistic fake credentials*  
-- Mimics human timing → no robotic traffic  
-- Works out-of-the-box on **Parrot Linux**  
-- Used in my internal lab training to teach **packet-level threat hunting**
+- Generates **19+ protocol flows** with *realistic fake credentials* - Mimics human timing → no robotic traffic  
+- Works out-of-the-box on **Parrot Linux** - Used in my internal lab training to teach **packet-level threat hunting**
 
 📥 **Try it now** → [Full Setup Guide + Demo Filters](https://github.com/Evaristus230/wireshark-traffic-simulator)
 
 ---
 
-### 🔹[Comprehensive Nessus Vulnerability Assessment Lab] (https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
-A methodical, real-world-aligned vulnerability scanning project using Tenable Nessus to assess multi-OS environments — designed to teach risk prioritization, CVSS interpretation, and remediation strategy through hands-on analysis of exploitable flaws.
+### 🔹 [Comprehensive Nessus Vulnerability Assessment Lab](https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
+> A **methodical, real-world vulnerability scanning project** using Tenable Nessus to assess multi-OS environments. Designed to teach risk prioritization, CVSS interpretation, and remediation strategy through hands-on analysis.
 
-🛠️ What it covers — ethically & in isolation:
+🛠️ **What it covers — ethically & in isolation**:
+- ✅ Full-scope scans of Metasploitable 2, Metasploitable 3, and Windows 10
+- ✅ Identification of critical exposures (e.g., EternalBlue, unpatched Apache, cleartext services)
+- ✅ Correlation of CVEs, CVSS scores, and exploit availability
+- ✅ Authenticated vs. unauthenticated scan comparison
+- ✅ Professional-grade reporting for technical and non-technical audiences
 
-✅ Full-scope scans of Metasploitable 2, Metasploitable 3, and Windows 10
+🔐 **Key Features**:
+- Follows industry-standard workflow (**Plan → Scan → Analyze → Report**)
+- Includes fictional red team/blue team context to frame findings in operational reality
+- Generates a formal PDF report with executive summary and risk matrix
+- Built for Parrot OS + Kali-compatible environments
 
-✅ Identification of critical exposures (e.g., EternalBlue, unpatched Apache, cleartext services)
+📥 **Try it now** → [Full Lab Guide, Scan Policy, & Report Template](https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
 
-✅ Correlation of CVEs, CVSS scores, and exploit availability
-
-✅ Authenticated vs. unauthenticated scan comparison
-
-✅ Professional-grade reporting for technical and non-technical audiences
-
-🔐 Key Features:
-
-Follows industry-standard vulnerability management workflow (Plan → Scan → Analyze → Report)
-Includes fictional red team/blue team context to frame findings in operational reality
-Generates a formal PDF report with executive summary, risk matrix, and actionable guidance
-Built for Parrot OS + Kali-compatible environments — ideal for lab-based SOC or pentest prep
-
-📥 Try it now → Full Lab Guide, Scan Policy, & Report Template
+---
 
 ## 📬 Let's Connect
 
@@ -78,5 +65,4 @@ Built for Parrot OS + Kali-compatible environments — ideal for lab-based SOC o
 
 ---
 
-> *“Security isn’t about perfect tools — it’s about understanding systems, asking the right questions, and communicating clearly.”*  
-> — I design tools that **teach by doing**. Because in cyber, **capturing is understanding**.
+> *“Security isn’t about perfect tools — it’s about understanding systems, asking the right questions, and communicating clearly.”* > — I design tools that **teach by doing**. Because in cyber, **capturing is understanding**.
