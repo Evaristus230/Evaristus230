@@ -46,6 +46,28 @@ These are tools I’ve built to turn theory into hands-on skill — each links t
 
 ---
 
+
+🔹 Nessus Vulnerability Assessment of a Heterogeneous Lab Environment
+A comprehensive vulnerability analysis using Tenable Nessus across a controlled lab (Metasploitable 2/3, Windows 10, and Kali) — designed to teach critical thinking in risk prioritization, CVSS interpretation, and remediation planning from a defender’s perspective.
+
+🛠️ What it covers — methodically & ethically:
+
+✅ Unauthenticated & authenticated scans against legacy and modern OS targets
+✅ CVSS-based severity triage (Critical → Info) with real-world context
+✅ Detection of high-impact flaws (e.g., EternalBlue, outdated Apache, SMBv1)
+✅ Full Nessus policy customization for heterogeneous environments
+✅ Professional-style reporting with executive summaries and technical deep dives
+🔐 Key Features:
+
+Fully replicable in isolated lab environments (VirtualBox/VMware)
+Includes scan artifacts, policy templates, and evidence-backed findings
+Bridges offensive knowledge (Metasploit targets) with defensive validation
+Teaches how to translate scanner output into business risk
+📥 Explore the full workflow → Setup Guide, Report Template & Scan Export
+
+💡 Why this matters:
+"Knowing how an attack works is half the battle. Knowing why it was possible — and how to prevent it systematically — is the other half. This project closes that loop."
+
 ## 📬 Let's Connect
 
 📧 **Email**: [okwor4chidubem@gmail.com](mailto:okwor4chidubem@gmail.com)  
