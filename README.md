@@ -46,27 +46,29 @@ These are tools I’ve built to turn theory into hands-on skill — each links t
 
 ---
 
+### [Comprehensive Nessus Vulnerability Assessment Lab] (https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
+A methodical, real-world-aligned vulnerability scanning project using Tenable Nessus to assess multi-OS environments — designed to teach risk prioritization, CVSS interpretation, and remediation strategy through hands-on analysis of exploitable flaws.
 
-🔹 Nessus Vulnerability Assessment of a Heterogeneous Lab Environment
-A comprehensive vulnerability analysis using Tenable Nessus across a controlled lab (Metasploitable 2/3, Windows 10, and Kali) — designed to teach critical thinking in risk prioritization, CVSS interpretation, and remediation planning from a defender’s perspective.
+🛠️ What it covers — ethically & in isolation:
 
-🛠️ What it covers — methodically & ethically:
+✅ Full-scope scans of Metasploitable 2, Metasploitable 3, and Windows 10
 
-✅ Unauthenticated & authenticated scans against legacy and modern OS targets
-✅ CVSS-based severity triage (Critical → Info) with real-world context
-✅ Detection of high-impact flaws (e.g., EternalBlue, outdated Apache, SMBv1)
-✅ Full Nessus policy customization for heterogeneous environments
-✅ Professional-style reporting with executive summaries and technical deep dives
+✅ Identification of critical exposures (e.g., EternalBlue, unpatched Apache, cleartext services)
+
+✅ Correlation of CVEs, CVSS scores, and exploit availability
+
+✅ Authenticated vs. unauthenticated scan comparison
+
+✅ Professional-grade reporting for technical and non-technical audiences
+
 🔐 Key Features:
 
-Fully replicable in isolated lab environments (VirtualBox/VMware)
-Includes scan artifacts, policy templates, and evidence-backed findings
-Bridges offensive knowledge (Metasploit targets) with defensive validation
-Teaches how to translate scanner output into business risk
-📥 Explore the full workflow → Setup Guide, Report Template & Scan Export
+Follows industry-standard vulnerability management workflow (Plan → Scan → Analyze → Report)
+Includes fictional red team/blue team context to frame findings in operational reality
+Generates a formal PDF report with executive summary, risk matrix, and actionable guidance
+Built for Parrot OS + Kali-compatible environments — ideal for lab-based SOC or pentest prep
 
-💡 Why this matters:
-"Knowing how an attack works is half the battle. Knowing why it was possible — and how to prevent it systematically — is the other half. This project closes that loop."
+📥 Try it now → Full Lab Guide, Scan Policy, & Report Template
 
 ## 📬 Let's Connect
 
