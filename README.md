@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okwor Chidubem Evaristus
 
-> **Cybersecurity Practitioner | Threat Emulator | Technical Educator** > I build realistic lab environments and automation tools that mirror real-world attack flows — because **you can’t defend what you haven’t seen**.
+> **Aspiring Cloud Support Engineer | AWS Cloud | Cloud Security** > I'm a Computer Science graduate building practical skills in **AWS cloud infrastructure, technical support, systems administration, and cloud security**.
 
 ---
 
