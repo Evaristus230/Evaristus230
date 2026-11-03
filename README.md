@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Okwor Chidubem Evaristus
 
-> **Aspiring Cloud Support Engineer | AWS Cloud | Cloud Security** > I'm a Computer Science graduate building practical skills in **AWS cloud infrastructure, technical support, systems administration, and cloud security**.
+> **Aspiring Cloud Support Engineer | AWS Cloud | Cloud Security** > I'm a Computer Science graduate building practical skills in **AWS cloud infrastructure, technical support, systems administration, and cloud security**. My focus is on understanding how cloud environments operate, troubleshooting infrastructure issues, managing identities and permissions, implementing security controls, and automating technical operations.
+
+I believe in learning by building, documenting every implementation, and developing solutions to practical technical problems.
 
 ---
 
