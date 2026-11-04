@@ -1,8 +1,11 @@
 <div align="center">
 
-OKWOR CHIDUBEM EVARISTUS
-AWS CLOUD SUPPORT ENGINEERING | CLOUD INFRASTRUCTURE | SECURITY
-Building practical skills through hands-on AWS projects
+# Okwor Chidubem Evaristus
+
+### AWS Cloud Support Engineering · Cloud Infrastructure · Security
+
+*Building practical skills through hands-on AWS projects*
+
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Engineering" />
   <img src="https://img.shields.io/badge/Cloud-Support-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Support" />
@@ -20,22 +23,32 @@ Building practical skills through hands-on AWS projects
 
 </div>
 
-<h2 align="center">ABOUT ME</h2>
+---
 
-I'm Okwor Chidubem Evaristus, a Computer Science graduate developing practical skills in AWS Cloud Support Engineering, IT operations, infrastructure troubleshooting and cloud security.
+<h2 align="center">About Me</h2>
 
-My immediate focus is AWS Cloud Support Engineering. I am building the ability to understand cloud environments, verify account and resource configurations, investigate access and connectivity problems, support compute and storage services, and interpret operational and security events.
+I'm Okwor Chidubem Evaristus, a Computer Science graduate developing practical skills in **AWS Cloud Support Engineering**, IT operations, infrastructure troubleshooting and cloud security.
 
-I learn by implementing controlled labs, validating results, investigating failures and documenting the work. My portfolio is organised around seven progressive AWS projects designed to demonstrate both technical implementation and the support-engineering reasoning behind it.
+My immediate focus is AWS Cloud Support Engineering. I am building the ability to:
 
-My longer-term direction is AWS Cloud Security Engineering, supported by a strong foundation in cloud infrastructure, identity governance, monitoring and operational security.
+- Understand cloud environments and verify account and resource configurations
+- Investigate access and connectivity problems
+- Support compute and storage services
+- Interpret operational and security events
+
+I learn by implementing controlled labs, validating results, investigating failures and documenting the work. My portfolio is organised around **seven progressive AWS projects** designed to demonstrate both technical implementation and the support-engineering reasoning behind it.
+
+My longer-term direction is **AWS Cloud Security Engineering**, supported by a strong foundation in cloud infrastructure, identity governance, monitoring and operational security.
+
 <div align="center">
 
-Understand the environment. Investigate with evidence. Verify the solution. Document the outcome.
+> **Understand the environment. Investigate with evidence. Verify the solution. Document the outcome.**
 
 </div>
 
-<h2 align="center">TECHNICAL AREAS</h2>
+---
+
+<h2 align="center">Technical Areas</h2>
 
 <h3 align="center">AWS Cloud & Infrastructure</h3>
 
@@ -75,7 +88,9 @@ Understand the environment. Investigate with evidence. Verify the solution. Docu
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </div>
 
-<h2 align="center">AWS CLOUD SUPPORT ENGINEERING PORTFOLIO</h2>
+---
+
+<h2 align="center">AWS Cloud Support Engineering Portfolio</h2>
 
 <p align="center">
   A structured sequence of seven hands-on projects covering AWS account operations, identity, networking, compute, storage, monitoring and security operations.
@@ -85,174 +100,151 @@ Understand the environment. Investigate with evidence. Verify the solution. Docu
   <b>Lab standards:</b> AWS Console-first · AWS CLI verification · <code>ca-central-1</code> default Region · Cost-conscious labs · Resource cleanup
 </p>
 
-Project roadmap
-<table>
-  <thead>
-    <tr>
-      <th align="center">#</th>
-      <th align="left">Project</th>
-      <th align="left">Engineering focus</th>
-      <th align="center">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>01</b></td>
-      <td><b>AWS Foundations & Account Operations</b></td>
-      <td>Account structure, global infrastructure, account verification, resource inventory, operational checks and cost awareness.</td>
-      <td align="center">🟡 In progress</td>
-    </tr>
-    <tr>
-      <td align="center"><b>02</b></td>
-      <td><b>AWS IAM Identity Governance & Access Troubleshooting</b></td>
-      <td>Users, groups, roles, policies, access evaluation, identity inventory and access-denied investigation.</td>
-      <td align="center">⚪ Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>03</b></td>
-      <td><b>AWS VPC Network Architecture & Troubleshooting</b></td>
-      <td>VPCs, subnets, route tables, gateways, security groups, network ACLs and connectivity diagnosis.</td>
-      <td align="center">⚪ Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>04</b></td>
-      <td><b>AWS EC2 Infrastructure Support & Recovery</b></td>
-      <td>Instance lifecycle, AMIs, EBS, status checks, system logs, connectivity, recovery and monitoring.</td>
-      <td align="center">⚪ Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>05</b></td>
-      <td><b>AWS S3 Storage Security & KMS Encryption</b></td>
-      <td>Bucket configuration, access controls, Block Public Access, encryption, KMS, versioning and storage troubleshooting.</td>
-      <td align="center">⚪ Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>06</b></td>
-      <td><b>AWS Security Monitoring, Detection & Incident Investigation</b></td>
-      <td>CloudTrail, CloudWatch, audit events, log analysis, alerting, suspicious activity investigation and response documentation.</td>
-      <td align="center">⚪ Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>07</b></td>
-      <td><b>AWS Cloud Security Operations Capstone</b></td>
-      <td>Integrated environment combining identity, networking, compute, storage, monitoring, security controls and operational runbooks.</td>
-      <td align="center">⚪ Planned</td>
-    </tr>
-  </tbody>
-</table>
+### Project Roadmap
 
-What the portfolio is designed to demonstrate
-- Account operations: establish an account baseline, verify identity and Region context, inventory resources and document operational checks.
-- Identity governance: inspect identities and policies, reason about permissions and troubleshoot access failures.
-- Network support: understand VPC architecture, test connectivity and isolate routing or filtering problems.
-- Compute support: investigate EC2 health, storage attachments, connectivity and recovery options.
-- Storage security: configure S3 access controls, encryption and recovery safeguards.
-- Security operations: inspect audit events, build monitoring workflows and document investigations.
-- Capstone: bring the earlier skills together in an integrated, documented cloud operations exercise.
-Project status is evidence-based: a project will only be marked complete after implementation, validation, troubleshooting notes and documentation are finished.
+| # | Project | Engineering Focus | Status |
+|:-:|:--------|:------------------|:------:|
+| **01** | **AWS Foundations & Account Operations** | Account structure, global infrastructure, account verification, resource inventory, operational checks and cost awareness | 🟡 In progress |
+| **02** | **AWS IAM Identity Governance & Access Troubleshooting** | Users, groups, roles, policies, access evaluation, identity inventory and access-denied investigation | ⚪ Planned |
+| **03** | **AWS VPC Network Architecture & Troubleshooting** | VPCs, subnets, route tables, gateways, security groups, network ACLs and connectivity diagnosis | ⚪ Planned |
+| **04** | **AWS EC2 Infrastructure Support & Recovery** | Instance lifecycle, AMIs, EBS, status checks, system logs, connectivity, recovery and monitoring | ⚪ Planned |
+| **05** | **AWS S3 Storage Security & KMS Encryption** | Bucket configuration, access controls, Block Public Access, encryption, KMS, versioning and storage troubleshooting | ⚪ Planned |
+| **06** | **AWS Security Monitoring, Detection & Incident Investigation** | CloudTrail, CloudWatch, audit events, log analysis, alerting, suspicious activity investigation and response documentation | ⚪ Planned |
+| **07** | **AWS Cloud Security Operations Capstone** | Integrated environment combining identity, networking, compute, storage, monitoring, security controls and operational runbooks | ⚪ Planned |
 
-<h2 align="center">OTHER SECURITY PROJECTS</h2>
+### What the Portfolio Is Designed to Demonstrate
 
-🌐 Realistic Credential Traffic Generator for Wireshark Training
- 
+| Area | Capability |
+|:-----|:-----------|
+| **Account operations** | Establish an account baseline, verify identity and Region context, inventory resources and document operational checks |
+| **Identity governance** | Inspect identities and policies, reason about permissions and troubleshoot access failures |
+| **Network support** | Understand VPC architecture, test connectivity and isolate routing or filtering problems |
+| **Compute support** | Investigate EC2 health, storage attachments, connectivity and recovery options |
+| **Storage security** | Configure S3 access controls, encryption and recovery safeguards |
+| **Security operations** | Inspect audit events, build monitoring workflows and document investigations |
+| **Capstone** | Bring the earlier skills together in an integrated, documented cloud operations exercise |
+
+> **Note:** Project status is evidence-based. A project is marked complete only after implementation, validation, troubleshooting notes and documentation are finished.
+
+---
+
+<h2 align="center">Other Security Projects</h2>
+
+### 🌐 Realistic Credential Traffic Generator for Wireshark Training
+
 A controlled network traffic simulator that generates authentication traffic using fictional credentials for packet analysis and security training.
 
-Highlights
-- Multiple authentication protocol simulations.
-- Controlled credential-exposure demonstrations.
-- Packet-level investigation.
-- Network security training.
-Python Linux Wireshark
-🛡️ Comprehensive Nessus Vulnerability Assessment Lab
- 
+**Highlights**
+
+- Multiple authentication protocol simulations
+- Controlled credential-exposure demonstrations
+- Packet-level investigation
+- Network security training
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+<br>
+
+### 🛡️ Comprehensive Nessus Vulnerability Assessment Lab
+
 A vulnerability assessment lab involving multiple operating systems, security scanning, risk prioritisation and remediation reporting.
 
-Highlights
-- Vulnerability discovery.
-- Authenticated and unauthenticated scanning.
-- CVE and CVSS analysis.
-- Risk assessment and remediation recommendations.
-- Technical reporting.
-Nessus Windows Linux Vulnerability Assessment
-<h2 align="center">ENGINEERING WORKFLOW</h2>
+**Highlights**
+
+- Vulnerability discovery
+- Authenticated and unauthenticated scanning
+- CVE and CVSS analysis
+- Risk assessment and remediation recommendations
+- Technical reporting
+
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-C0392B?style=flat-square)
+
+---
+
+<h2 align="center">Engineering Workflow</h2>
 
 <div align="center">
 
-Stage	Process
-01	🔍 DISCOVER — Establish the environment, scope and reported problem.
-02	🧭 ASSESS — Collect configuration, logs and relevant evidence.
-03	⚙️ IMPLEMENT — Apply a controlled configuration or remediation.
-04	🧪 VALIDATE — Test expected behaviour and verify the result.
-05	🔐 SECURE — Review permissions, exposure, resilience and cost.
-06	📝 DOCUMENT — Record findings, commands, evidence and lessons learned.
-
+| Stage | Process |
+|:-----:|:--------|
+| **01** | 🔍 **Discover**: establish the environment, scope and reported problem |
+| **02** | 🧭 **Assess**: collect configuration, logs and relevant evidence |
+| **03** | ⚙️ **Implement**: apply a controlled configuration or remediation |
+| **04** | 🧪 **Validate**: test expected behaviour and verify the result |
+| **05** | 🔐 **Secure**: review permissions, exposure, resilience and cost |
+| **06** | 📝 **Document**: record findings, commands, evidence and lessons learned |
 
 </div>
 
 I aim to make my work reproducible, clearly documented and useful as a technical reference. I distinguish between a successful lab demonstration and professional production experience.
-<h2 align="center">CURRENT LEARNING & DEVELOPMENT</h2>
+
+---
+
+<h2 align="center">Current Learning & Development</h2>
+
+<p align="center">
+  AWS account operations · IAM · VPC networking · EC2 support · S3 security · KMS encryption · CloudTrail · CloudWatch · Windows 11 · Linux · AWS CLI · PowerShell · Git & GitHub · Terraform
+</p>
+
+---
+
+<h2 align="center">Education</h2>
+
+<p align="center">
+  <b>Bachelor's Degree in Computer Science</b><br />
+  Michael Okpara University of Agriculture, Umudike, Nigeria
+</p>
+
+---
+
+<h2 align="center">GitHub Statistics</h2>
+
+<div align="center">
+  <a href="https://github.com/Evaristus230">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evaristus230&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Evaristus230">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristus230&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  </a>
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=Evaristus230&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+---
+
+<h2 align="center">Career Direction</h2>
 
 <div align="center">
 
-AWS account operations · IAM · VPC networking · EC2 support · S3 security · KMS encryption · CloudTrail · CloudWatch · Windows 11 · Linux · AWS CLI · PowerShell · Git & GitHub · Terraform
-</div>
-
-<h2 align="center">EDUCATION</h2>
-
-<div align="center">
-
-Bachelor's Degree in Computer Science
-
-Michael Okpara University of Agriculture, Umudike, Nigeria.
-</div>
-
-<h2 align="center">GITHUB STATISTICS</h2>
-
-<div align="center">
-
-<a href="https://github.com/Evaristus230">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evaristus230&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Evaristus230">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristus230&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</a>
-
-
-<img src="https://streak-stats.demolab.com?user=Evaristus230&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+| | |
+|:-:|:-:|
+| **Immediate focus** | Cloud Support Engineering · IT Support · Technical Support · Help Desk · Junior Cloud Operations |
+| **Long-term direction** | AWS Cloud Security Engineering |
 
 </div>
 
-<h2 align="center">CAREER DIRECTION</h2>
+---
 
-<div align="center">
+<h2 align="center">Let's Connect</h2>
 
-Immediate focus
+<p align="center">
+  <a href="mailto:okwor4chidubem@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/okwor-evaristus-a83273147/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Evaristus230">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-Cloud Support Engineering · IT Support · Technical Support · Help Desk · Junior Cloud Operations
-
-Long-term direction
-
-AWS Cloud Security Engineering
-</div>
-
-<h2 align="center">LET'S CONNECT</h2>
-
-<div align="center">
-
-<a href="mailto:okwor4chidubem@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/okwor-evaristus-a83273147/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Evaristus230">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-
-
-
-Build with purpose. Troubleshoot with evidence. Secure by design.
-
-One project, one challenge and one verified solution at a time.
-</div>
+<p align="center">
+  <b>Build with purpose. Troubleshoot with evidence. Secure by design.</b><br />
+  <i>One project, one challenge and one verified solution at a time.</i>
+</p>
