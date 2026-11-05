@@ -111,7 +111,7 @@ My longer-term direction is **AWS Cloud Security Engineering**, supported by a s
 
 <p>
   <b>Status:</b> In Progress<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_01_REPOSITORY_URL">View Project 01 Repository</a>
+  <b>Repository:</b> <a href="https://github.com/Evaristus230/Aws-cloud-support-project-01">View Project 01 Repository</a>
 </p>
 
 **Overview**
