@@ -102,15 +102,10 @@ My longer-term direction is **AWS Cloud Security Engineering**, supported by a s
 
 ### Project Roadmap
 
-| # | Project | Engineering Focus | Status |
-|:-:|:--------|:------------------|:------:|
-| **01** | **AWS Foundations & Account Operations** | Account structure, global infrastructure, account verification, resource inventory, operational checks and cost awareness | 🟡 In progress |
-| **02** | **AWS IAM Identity Governance & Access Troubleshooting** | Users, groups, roles, policies, access evaluation, identity inventory and access-denied investigation | ⚪ Planned |
-| **03** | **AWS VPC Network Architecture & Troubleshooting** | VPCs, subnets, route tables, gateways, security groups, network ACLs and connectivity diagnosis | ⚪ Planned |
-| **04** | **AWS EC2 Infrastructure Support & Recovery** | Instance lifecycle, AMIs, EBS, status checks, system logs, connectivity, recovery and monitoring | ⚪ Planned |
-| **05** | **AWS S3 Storage Security & KMS Encryption** | Bucket configuration, access controls, Block Public Access, encryption, KMS, versioning and storage troubleshooting | ⚪ Planned |
-| **06** | **AWS Security Monitoring, Detection & Incident Investigation** | CloudTrail, CloudWatch, audit events, log analysis, alerting, suspicious activity investigation and response documentation | ⚪ Planned |
-| **07** | **AWS Cloud Security Operations Capstone** | Integrated environment combining identity, networking, compute, storage, monitoring, security controls and operational runbooks | ⚪ Planned |
+### Project 01 -- Aws Foundations & Account Operations
+[View Project
+Respository](https://github.com/Evaristus230/Aws-cloud-support-project-01)
+A practical AWS project covering account verification,account operations, regional infrastructure awareness, and cloud support documentation.
 
 ### What the Portfolio Is Designed to Demonstrate
 
