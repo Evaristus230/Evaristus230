@@ -19,6 +19,7 @@ A read-only Windows security baseline and bounded event-log review, supported by
 - Baseline and event counts are documented from one workstation snapshot; event details require further context review.
 - The incident scenario is fictional. No real account incident was investigated.
 - [View lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
+- [**Cross-platform IT Support Lab**](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Cross-Platform-IT-Support-Lab) — interactive practice dashboard with fictional Windows, Ubuntu and AWS access scenarios, read-only evidence examples and interview notes.
 
 ### Linux and Vulnerability Assessment Practice
 A Nessus lab covering scan review, vulnerability prioritisation and remediation reporting across Windows and Linux systems.
