@@ -2,9 +2,9 @@
 
 # Okwor Chidubem Evaristus
 
-### AWS Cloud Support Engineering · Cloud Infrastructure · Security
+### IT Support · Windows Administration · AWS Cloud Support
 
-*Building practical skills through hands-on AWS projects*
+*Building practical desktop support and cloud operations skills*
 
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Engineering" />
@@ -27,9 +27,9 @@
 
 <h2 align="center">About Me</h2>
 
-I'm Okwor Chidubem Evaristus, a Computer Science graduate developing practical skills in **AWS Cloud Support Engineering**, IT operations, infrastructure troubleshooting and cloud security.
+I'm Okwor Chidubem Evaristus, a Computer Science graduate developing practical skills in **Windows IT support, endpoint troubleshooting, and AWS cloud operations**.
 
-My immediate focus is AWS Cloud Support Engineering. I am building the ability to:
+My immediate goal is an entry-level IT Support or Help Desk role while I continue building AWS Cloud Support skills. I am developing the ability to:
 
 - Understand cloud environments and verify account and resource configurations.
 - Investigate access and connectivity problems.
@@ -37,9 +37,16 @@ My immediate focus is AWS Cloud Support Engineering. I am building the ability t
 - Interpret operational and security events.
 - Document technical investigations and solutions.
 
-I learn by implementing controlled labs, validating results, investigating failures and documenting the work. My portfolio is organised around **seven progressive AWS projects** designed to demonstrate both technical implementation and the support-engineering reasoning behind it.
+I learn by implementing controlled labs, validating results, investigating failures and documenting the work. My AWS portfolio roadmap contains seven progressive projects; each is marked according to its actual implementation and evidence status.
 
 My longer-term direction is **AWS Cloud Security Engineering**, supported by a strong foundation in cloud infrastructure, identity governance, monitoring and operational security.
+
+---
+
+<h2 align="center">Featured IT Support Projects</h2>
+
+- [**Windows Support Toolkit**](https://github.com/Evaristus230/windows-support-toolkit) — read-only PowerShell diagnostics and ticket-ready health reports.
+- [**Windows Endpoint Security & Incident Response Lab**](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab) — baseline and bounded event review documented from one authorized workstation snapshot; the sign-in incident exercise is fictional, and event context review remains open.
 
 <div align="center">
 
@@ -159,146 +166,21 @@ Demonstrate the ability to investigate access problems, understand permission bo
 
 ---
 
-### 03. AWS VPC Network Architecture & Troubleshooting
+### Planned AWS Project Roadmap
 
-<p>
-  <b>Status:</b> Planned<br />
-  <b>Repository:</b> Not published yet
-</p>
+The next five projects are planned, not yet completed:
 
-**Overview**
+| Project | Planned focus |
+|---|---|
+| **03. VPC Networking & Troubleshooting** | VPCs, subnets, routes, gateways, security groups, network ACLs, DNS, and connectivity diagnosis |
+| **04. EC2 Support & Recovery** | Instance health, remote access, EBS, monitoring, and recovery procedures |
+| **05. S3 Security & KMS Encryption** | Bucket access, public access controls, encryption, versioning, and lifecycle costs |
+| **06. AWS Monitoring & Incident Investigation** | CloudTrail, CloudWatch, alerting, event review, and evidence-based reporting |
+| **07. Cloud Security Operations Capstone** | Integrated identity, network, compute, storage, monitoring, and troubleshooting lab |
 
-A cloud networking project focused on understanding how AWS network infrastructure is designed, configured and troubleshot. It examines how resources communicate within a VPC and how network controls affect connectivity.
-
-**Key areas of work**
-
-- Understand VPCs, subnets, CIDR ranges and IP addressing.
-- Configure and examine public and private subnets.
-- Understand route tables and internet gateways.
-- Examine NAT gateway functionality and associated costs.
-- Investigate security groups and network ACLs.
-- Test connectivity between network resources.
-- Troubleshoot routing, DNS and network access failures.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to understand AWS network architecture, investigate connectivity failures, identify misconfigurations and explain how traffic moves through a cloud environment.
+Each project will be marked complete only after implementation, verification, sanitized evidence, troubleshooting notes, security/cost review, and cleanup.
 
 ---
-
-### 04. AWS EC2 Infrastructure Support & Recovery
-
-<p>
-  <b>Status:</b> Planned<br />
-  <b>Repository:</b> Not published yet
-</p>
-
-**Overview**
-
-An infrastructure support project focused on deploying, monitoring, maintaining and troubleshooting Amazon EC2 instances. It explores common compute-related operational problems and recovery procedures.
-
-**Key areas of work**
-
-- Understand EC2 instance types, AMIs and launch configurations.
-- Deploy and manage EC2 instances.
-- Examine instance status checks and system health.
-- Investigate instance connectivity and SSH/RDP access issues.
-- Understand EBS volumes, snapshots and storage attachments.
-- Examine instance monitoring and CloudWatch metrics.
-- Investigate common instance failures and recovery options.
-- Document safe operational and recovery procedures.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to support cloud compute infrastructure, investigate instance health problems, troubleshoot remote access, understand attached storage and follow structured recovery procedures.
-
----
-
-### 05. AWS S3 Storage Security & KMS Encryption
-
-<p>
-  <b>Status:</b> Planned<br />
-  <b>Repository:</b> Not published yet
-</p>
-
-**Overview**
-
-A cloud storage and data protection project focused on Amazon S3 security, access management, encryption and recovery safeguards. It examines how to protect stored data while maintaining appropriate access.
-
-**Key areas of work**
-
-- Create and manage S3 buckets.
-- Understand bucket policies and access controls.
-- Examine S3 Block Public Access and public exposure risks.
-- Configure and verify S3 encryption.
-- Understand AWS Key Management Service (KMS).
-- Investigate encryption and permission-related failures.
-- Explore versioning and recovery protection.
-- Review storage lifecycle and cost-management considerations.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to secure cloud storage, investigate data-access problems, understand encryption controls and apply appropriate data protection measures.
-
----
-
-### 06. AWS Security Monitoring, Detection & Incident Investigation
-
-<p>
-  <b>Status:</b> Planned<br />
-  <b>Repository:</b> Not published yet
-</p>
-
-**Overview**
-
-A security operations project focused on monitoring AWS activity, identifying suspicious or unexpected events and investigating operational and security incidents using AWS logging and monitoring services.
-
-**Key areas of work**
-
-- Configure and examine AWS CloudTrail.
-- Understand management events and data events.
-- Investigate account activity and API event history.
-- Centralise and protect audit logs where appropriate.
-- Understand CloudWatch metrics, logs and alarms.
-- Create monitoring and alerting workflows.
-- Investigate suspicious activity and configuration changes.
-- Document incident timelines, findings and recommended actions.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to interpret AWS audit records, monitor infrastructure activity, investigate security events, identify operational anomalies and produce evidence-based incident documentation.
-
----
-
-### 07. AWS Cloud Security Operations Capstone
-
-<p>
-  <b>Status:</b> Planned<br />
-  <b>Repository:</b> Not published yet
-</p>
-
-**Overview**
-
-An integrated cloud operations and security project that combines the technical knowledge developed in the first six projects. It simulates a realistic cloud support and security investigation scenario involving multiple AWS services.
-
-**Key areas of work**
-
-- Establish and document an AWS environment baseline.
-- Review identity permissions and access controls.
-- Examine network architecture and connectivity.
-- Deploy and support compute infrastructure.
-- Configure secure storage and encryption.
-- Monitor activity and investigate selected events.
-- Troubleshoot simulated operational problems.
-- Apply corrective actions and validate the outcomes.
-- Produce technical documentation, evidence and operational runbooks.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to approach cloud infrastructure as an interconnected environment, investigate problems across multiple AWS services, apply security-conscious solutions and communicate technical findings clearly.
-
----
-
 ### Portfolio Completion Standard
 
 A project will only be marked **Completed** when it has:
@@ -335,6 +217,16 @@ A read-only PowerShell diagnostic that collects uptime, disk space, stopped auto
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 
 **Repository:** https://github.com/Evaristus230/windows-support-toolkit
+
+---
+
+### 🔐 Windows Endpoint Security & Incident Response Lab
+
+A read-only Windows baseline and bounded event-log review, with a fictional suspicious sign-in tabletop, incident response playbook, and interview walkthrough.
+
+- **Status:** Baseline and event counts documented from one authorized workstation snapshot; event details still require context review.
+- **Scenario:** Fictional tabletop only; no real account or incident was investigated.
+- **Repository:** [View the lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
 
 ---
 
