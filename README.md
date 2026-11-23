@@ -1,371 +1,56 @@
- <div align="center">
-
 # Okwor Chidubem Evaristus
 
-### IT Support · Windows Administration · AWS Cloud Support
+### Entry-Level IT Support | Windows & Linux | AWS Cloud Security (Long-Term Goal)
 
-*Building practical desktop support and cloud operations skills*
+Computer Science graduate building practical skills for **Help Desk, Service Desk and IT Support** roles. I document hands-on labs in Windows and Linux, use PowerShell and Bash for basic administration, and focus on clear troubleshooting notes and evidence.
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Engineering" />
-  <img src="https://img.shields.io/badge/Cloud-Support-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Support" />
-  <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Security-16A085?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Infrastructure and Security" />
-</p>
+I’m preparing for Canadian IT support opportunities and continuing to develop toward AWS cloud security. My portfolio shows lab work and learning in progress; it does not represent production experience.
 
-<p>
-  <a href="https://github.com/Evaristus230">
-    <img src="https://komarev.com/ghpvc/?username=Evaristus230&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Evaristus230?tab=followers">
-    <img src="https://img.shields.io/github/followers/Evaristus230?label=Followers&style=flat-square" alt="GitHub followers" />
-  </a>
-</p>
+## Featured Projects
 
-</div>
+### Windows Support Toolkit
+Read-only PowerShell diagnostics for common Windows support checks, with a ticket-ready HTML health report.
+- Covers disk space, services, recent errors, network configuration, updates and software inventory.
+- Tested on a Windows 11 workstation; results and limitations are documented.
+- [View repository](https://github.com/Evaristus230/windows-support-toolkit)
 
----
+### Windows Endpoint Security & Incident Response Lab
+A read-only Windows security baseline and bounded event-log review, supported by a fictional sign-in incident tabletop.
+- Baseline and event counts are documented from one workstation snapshot; event details require further context review.
+- The incident scenario is fictional. No real account incident was investigated.
+- [View lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
 
-<h2 align="center">About Me</h2>
+### Linux and Vulnerability Assessment Practice
+A Nessus lab covering scan review, vulnerability prioritisation and remediation reporting across Windows and Linux systems.
+- [View project](https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
 
-I'm Okwor Chidubem Evaristus, a Computer Science graduate developing practical skills in **Windows IT support, endpoint troubleshooting, and AWS cloud operations**.
+## Skills in Progress
 
-My immediate goal is an entry-level IT Support or Help Desk role while I continue building AWS Cloud Support skills. I am developing the ability to:
+- **Operating systems:** Windows 10/11, Linux, Ubuntu
+- **Support and scripting:** PowerShell, Bash, endpoint diagnostics, event-log review, documentation
+- **Tools and workflow:** Git, GitHub, Wireshark, Nessus
+- **AWS learning path:** account fundamentals, IAM, EC2, VPC, S3, CloudTrail and CloudWatch
 
-- Understand cloud environments and verify account and resource configurations.
-- Investigate access and connectivity problems.
-- Support compute and storage services.
-- Interpret operational and security events.
-- Document technical investigations and solutions.
+I’m building and validating these skills through labs. I don’t present unverified tools or planned work as professional experience.
 
-I learn by implementing controlled labs, validating results, investigating failures and documenting the work. My AWS portfolio roadmap contains seven progressive projects; each is marked according to its actual implementation and evidence status.
+## Learning Roadmap
 
-My longer-term direction is **AWS Cloud Security Engineering**, supported by a strong foundation in cloud infrastructure, identity governance, monitoring and operational security.
+1. Strengthen Windows and Linux troubleshooting with repeatable support scenarios and clear ticket notes.
+2. Practise common service-desk workflows, customer communication and escalation decisions.
+3. Build AWS foundations, then deepen IAM, logging, monitoring and cloud security labs.
 
----
+## Education
 
-<h2 align="center">Featured IT Support Projects</h2>
+**Bachelor’s Degree in Computer Science**
 
-- [**Windows Support Toolkit**](https://github.com/Evaristus230/windows-support-toolkit) — read-only PowerShell diagnostics and ticket-ready health reports.
-- [**Windows Endpoint Security & Incident Response Lab**](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab) — baseline and bounded event review documented from one authorized workstation snapshot; the sign-in incident exercise is fictional, and event context review remains open.
+Michael Okpara University of Agriculture, Umudike, Nigeria
 
-<div align="center">
+## Career Focus
 
-> **Understand the environment. Investigate with evidence. Verify the solution. Document the outcome.**
+Seeking entry-level **IT Support, Help Desk or Service Desk** opportunities, including roles in Canada. Long term, I’m working toward **AWS Cloud Security**.
 
-</div>
+## Contact
 
----
-
-<h2 align="center">Technical Areas</h2>
-
-<h3 align="center">AWS Cloud & Infrastructure</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="IAM" />
-  <img src="https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=FF9900" alt="EC2" />
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="VPC" />
-  <img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=FF9900" alt="S3" />
-  <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="CloudTrail" />
-  <img src="https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF9900" alt="CloudWatch" />
-  <img src="https://img.shields.io/badge/KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="KMS" />
-</div>
-
-<h3 align="center">Command Line, Scripting & Version Control</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS CLI" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
-<h3 align="center">Operating Systems & Security Tools</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black" alt="Parrot OS" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge&logoColor=white" alt="Nessus" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-</div>
-
----
-
-<h2 align="center">AWS Cloud Support Engineering Portfolio</h2>
-
-<p align="center">
-  Seven progressive hands-on projects covering AWS account operations, identity governance, networking, compute infrastructure, storage security, monitoring and cloud security operations.
-</p>
-
-<p align="center">
-  <b>Lab standards:</b> AWS Console-first · AWS CLI verification · <code>ca-central-1</code> default Region · Cost-conscious labs · Security-conscious configuration · Resource cleanup
-</p>
-
-<p align="center">
-  Each project has a dedicated repository. Repository links will be activated as the repositories are created.
-</p>
-
----
-
-### 01. AWS Foundations & Account Operations
-
-<p>
-  <b>Status:</b> In Progress<br />
-  <b>Repository:</b> <a href="https://github.com/Evaristus230/Aws-cloud-support-project-01">View Project 01 Repository</a>
-</p>
-
-**Overview**
-
-An operational foundation project focused on understanding, verifying and managing an AWS account environment. It establishes the baseline checks required before supporting cloud infrastructure.
-
-**Key areas of work**
-
-- AWS account structure and basic account operations.
-- Verify AWS identity and authentication context using AWS STS.
-- Understand AWS Regions and Availability Zones.
-- Verify AWS CLI configuration and active Region.
-- Perform initial account and infrastructure checks.
-- Document operational findings and verification procedures.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to establish an AWS environment baseline, verify account context, understand regional infrastructure and perform basic cloud operations safely.
-
----
-
-### 02. AWS IAM Identity Governance & Access Troubleshooting
-
-<p>
-  <b>Status:</b> Tool published<br />
-  <b>Repository:</b> <a href="https://github.com/Evaristus230/aws-iam-hygiene-auditor">aws-iam-hygiene-auditor</a>
-</p>
-
-**Overview**
-
-A practical identity and access management project focused on AWS identities, policies, permissions and access controls. It explores how to investigate and resolve common authorization failures.
-
-**Key areas of work**
-
-- Inventory IAM users, groups, roles and policies.
-- Examine managed and inline policies.
-- Understand identity-based and resource-based policies.
-- Investigate IAM policy evaluation and explicit denies.
-- Review MFA and access-key security practices.
-- Troubleshoot `AccessDenied` and permission-related errors.
-- Apply least-privilege access improvements.
-
-**Expected engineering outcome**
-
-Demonstrate the ability to investigate access problems, understand permission boundaries, evaluate IAM policies and improve identity security without granting unnecessary privileges.
-
----
-
-### Planned AWS Project Roadmap
-
-The next five projects are planned, not yet completed:
-
-| Project | Planned focus |
-|---|---|
-| **03. VPC Networking & Troubleshooting** | VPCs, subnets, routes, gateways, security groups, network ACLs, DNS, and connectivity diagnosis |
-| **04. EC2 Support & Recovery** | Instance health, remote access, EBS, monitoring, and recovery procedures |
-| **05. S3 Security & KMS Encryption** | Bucket access, public access controls, encryption, versioning, and lifecycle costs |
-| **06. AWS Monitoring & Incident Investigation** | CloudTrail, CloudWatch, alerting, event review, and evidence-based reporting |
-| **07. Cloud Security Operations Capstone** | Integrated identity, network, compute, storage, monitoring, and troubleshooting lab |
-
-Each project will be marked complete only after implementation, verification, sanitized evidence, troubleshooting notes, security/cost review, and cleanup.
-
----
-### Portfolio Completion Standard
-
-A project will only be marked **Completed** when it has:
-
-1. A clearly defined objective and technical scope.
-2. A working implementation or controlled lab demonstration.
-3. AWS Console and CLI verification where applicable.
-4. Evidence such as redacted screenshots, command outputs and configuration records.
-5. Troubleshooting notes documenting problems and resolutions.
-6. Security and cost considerations.
-7. Resource cleanup and a final technical report.
-
-Project status will reflect actual implementation and evidence. The objective is to demonstrate verified practical work, not simply familiarity with AWS service names.
-
----
-
----
-
-<h2 align="center">IT Support & Automation Projects</h2>
-
-<p align="center">
-  Practical tooling for the day-to-day work of desktop and service-desk support: collecting diagnostics, reading logs and turning scan output into something a ticket can use.
-</p>
-
-### 🖥️ Windows Support Toolkit
-
-A read-only PowerShell diagnostic that collects uptime, disk space, stopped automatic services, recent error events, network configuration, installed updates and software inventory, then writes an HTML report with an overall status of OK, Warning or Critical.
-
-- Tested on Windows 11: 15 applications detected, 3 network interfaces, 5 recent hotfixes, overall status Warning.
-- Every collector is isolated, so one failing query degrades to "no data" instead of breaking the report.
-- Reads installed software from the registry rather than `Win32_Product`, which is slow and triggers MSI consistency checks.
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
-
-**Repository:** https://github.com/Evaristus230/windows-support-toolkit
-
----
-
-### 🔐 Windows Endpoint Security & Incident Response Lab
-
-A read-only Windows baseline and bounded event-log review, with a fictional suspicious sign-in tabletop, incident response playbook, and interview walkthrough.
-
-- **Status:** Baseline and event counts documented from one authorized workstation snapshot; event details still require context review.
-- **Scenario:** Fictional tabletop only; no real account or incident was investigated.
-- **Repository:** [View the lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
-
----
-
-### 🧾 Nessus Report Parser
-
-Converts a Nessus `.nessus` scan file into a findings CSV and a Markdown summary, sorted by severity and CVSS, so scan results can be tracked instead of clicked through in the UI.
-
-- Sample run: 3 hosts, 10 findings (2 Critical, 3 High, 3 Medium, 1 Low, 1 Info).
-- Groups by plugin, so "how many hosts does this affect" is meaningful.
-- Prefers CVSS v3 and falls back to v2 only when v3 is absent.
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square&logoColor=white)
-
-**Repository:** https://github.com/Evaristus230/nessus-report-parser
-
----
-
-<h2 align="center">Other Security Projects</h2>
-
-### 🌐 Realistic Credential Traffic Generator for Wireshark Training
-
-A controlled network traffic simulator that generates authentication traffic using fictional credentials for packet analysis and security training.
-
-**Highlights**
-
-- Multiple authentication protocol simulations.
-- Controlled credential-exposure demonstrations.
-- Packet-level investigation.
-- Network security training.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-**Repository:** https://github.com/Evaristus230/wireshark-traffic-simulator
-
----
-
-### 🛡️ Comprehensive Nessus Vulnerability Assessment Lab
-
-A vulnerability assessment lab involving multiple operating systems, security scanning, risk prioritisation and remediation reporting.
-
-**Highlights**
-
-- Vulnerability discovery.
-- Authenticated and unauthenticated scanning.
-- CVE and CVSS analysis.
-- Risk assessment and remediation recommendations.
-- Technical reporting.
-
-![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-C0392B?style=flat-square)
-
-**Repository:** https://github.com/Evaristus230/Nessus-Lab-Scan-Project
-
----
-
-<h2 align="center">Engineering Workflow</h2>
-
-<div align="center">
-
-| Stage | Process |
-|:-----:|:--------|
-| **01** | 🔍 **Discover:** Establish the environment, scope and reported problem |
-| **02** | 🧭 **Assess:** Collect configuration, logs and relevant evidence |
-| **03** | ⚙️ **Implement:** Apply a controlled configuration or remediation |
-| **04** | 🧪 **Validate:** Test expected behaviour and verify the result |
-| **05** | 🔐 **Secure:** Review permissions, exposure, resilience and cost |
-| **06** | 📝 **Document:** Record findings, commands, evidence and lessons learned |
-
-</div>
-
-I aim to make my work reproducible, clearly documented and useful as a technical reference. I distinguish between a successful lab demonstration and professional production experience.
-
----
-
-<h2 align="center">Current Learning & Development</h2>
-
-<p align="center">
-  AWS account operations · IAM · VPC networking · EC2 support · S3 security · KMS encryption · CloudTrail · CloudWatch · Windows 11 · Linux · AWS CLI · PowerShell · Git & GitHub · Terraform
-</p>
-
----
-
-<h2 align="center">Education</h2>
-
-<p align="center">
-  <b>Bachelor's Degree in Computer Science</b><br />
-  Michael Okpara University of Agriculture, Umudike, Nigeria
-</p>
-
----
-
-<h2 align="center">GitHub Statistics</h2>
-
-<div align="center">
-  <a href="https://github.com/Evaristus230">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Evaristus230&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/Evaristus230">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evaristus230&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-  </a>
-  <br /><br />
-  <img src="https://streak-stats.demolab.com?user=Evaristus230&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
----
-
-<h2 align="center">Career Direction</h2>
-
-<div align="center">
-
-| | |
-|:-:|:-:|
-| **Immediate focus** | Cloud Support Engineering · IT Support · Technical Support · Help Desk · Junior Cloud Operations |
-| **Long-term direction** | AWS Cloud Security Engineering |
-
-</div>
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:okwor4chidubem@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/okwor-evaristus-a83273147/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Evaristus230">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Build with purpose. Troubleshoot with evidence. Secure by design.</b><br />
-  <i>One project, one challenge and one verified solution at a time.</i>
-</p>
+- [Email](mailto:okwor4chidubem@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/okwor-evaristus-a83273147/)
+- [GitHub](https://github.com/Evaristus230)
