@@ -73,7 +73,6 @@ My longer-term direction is **AWS Cloud Security Engineering**, supported by a s
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </div>
 
 <h3 align="center">Operating Systems & Security Tools</h3>
@@ -136,8 +135,8 @@ Demonstrate the ability to establish an AWS environment baseline, verify account
 ### 02. AWS IAM Identity Governance & Access Troubleshooting
 
 <p>
-  <b>Status:</b> Planned<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_02_REPOSITORY_URL">View Project 02 Repository</a>
+  <b>Status:</b> Tool published<br />
+  <b>Repository:</b> <a href="https://github.com/Evaristus230/aws-iam-hygiene-auditor">aws-iam-hygiene-auditor</a>
 </p>
 
 **Overview**
@@ -164,7 +163,7 @@ Demonstrate the ability to investigate access problems, understand permission bo
 
 <p>
   <b>Status:</b> Planned<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_03_REPOSITORY_URL">View Project 03 Repository</a>
+  <b>Repository:</b> Not published yet
 </p>
 
 **Overview**
@@ -191,7 +190,7 @@ Demonstrate the ability to understand AWS network architecture, investigate conn
 
 <p>
   <b>Status:</b> Planned<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_04_REPOSITORY_URL">View Project 04 Repository</a>
+  <b>Repository:</b> Not published yet
 </p>
 
 **Overview**
@@ -219,7 +218,7 @@ Demonstrate the ability to support cloud compute infrastructure, investigate ins
 
 <p>
   <b>Status:</b> Planned<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_05_REPOSITORY_URL">View Project 05 Repository</a>
+  <b>Repository:</b> Not published yet
 </p>
 
 **Overview**
@@ -247,7 +246,7 @@ Demonstrate the ability to secure cloud storage, investigate data-access problem
 
 <p>
   <b>Status:</b> Planned<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_06_REPOSITORY_URL">View Project 06 Repository</a>
+  <b>Repository:</b> Not published yet
 </p>
 
 **Overview**
@@ -275,7 +274,7 @@ Demonstrate the ability to interpret AWS audit records, monitor infrastructure a
 
 <p>
   <b>Status:</b> Planned<br />
-  <b>Repository:</b> <a href="REPLACE_WITH_PROJECT_07_REPOSITORY_URL">View Project 07 Repository</a>
+  <b>Repository:</b> Not published yet
 </p>
 
 **Overview**
@@ -313,6 +312,44 @@ A project will only be marked **Completed** when it has:
 7. Resource cleanup and a final technical report.
 
 Project status will reflect actual implementation and evidence. The objective is to demonstrate verified practical work, not simply familiarity with AWS service names.
+
+---
+
+---
+
+<h2 align="center">IT Support & Automation Projects</h2>
+
+<p align="center">
+  Practical tooling for the day-to-day work of desktop and service-desk support: collecting diagnostics, reading logs and turning scan output into something a ticket can use.
+</p>
+
+### 🖥️ Windows Support Toolkit
+
+A read-only PowerShell diagnostic that collects uptime, disk space, stopped automatic services, recent error events, network configuration, installed updates and software inventory, then writes an HTML report with an overall status of OK, Warning or Critical.
+
+- Tested on Windows 11: 15 applications detected, 3 network interfaces, 5 recent hotfixes, overall status Warning.
+- Every collector is isolated, so one failing query degrades to "no data" instead of breaking the report.
+- Reads installed software from the registry rather than `Win32_Product`, which is slow and triggers MSI consistency checks.
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+
+**Repository:** https://github.com/Evaristus230/windows-support-toolkit
+
+---
+
+### 🧾 Nessus Report Parser
+
+Converts a Nessus `.nessus` scan file into a findings CSV and a Markdown summary, sorted by severity and CVSS, so scan results can be tracked instead of clicked through in the UI.
+
+- Sample run: 3 hosts, 10 findings (2 Critical, 3 High, 3 Medium, 1 Low, 1 Info).
+- Groups by plugin, so "how many hosts does this affect" is meaningful.
+- Prefers CVSS v3 and falls back to v2 only when v3 is absent.
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square&logoColor=white)
+
+**Repository:** https://github.com/Evaristus230/nessus-report-parser
 
 ---
 
