@@ -1,57 +1,31 @@
 # Okwor Chidubem Evaristus
 
-### Entry-Level IT Support | Windows & Linux | AWS Cloud Security (Long-Term Goal)
+### IT Support | Help Desk | Desktop Support
 
-Computer Science graduate building practical skills for **Help Desk, Service Desk and IT Support** roles. I document hands-on labs in Windows and Linux, use PowerShell and Bash for basic administration, and focus on clear troubleshooting notes and evidence.
+Computer Science graduate with experience supporting users in a 20-person firm. My work has included Windows laptops, Google Workspace accounts, printers, email, file organization and backups. I document troubleshooting and am seeking entry-level IT support opportunities.
 
-I’m preparing for Canadian IT support opportunities and continuing to develop toward AWS cloud security. My portfolio shows lab work and learning in progress; it does not represent production experience.
+## Featured work
 
-## Featured Projects
+### [Windows Support Toolkit](https://github.com/Evaristus230/windows-support-toolkit)
+A PowerShell diagnostic that collects Windows system, disk, service, event and network information into HTML and JSON reports. It provides a snapshot for investigation; findings require context.
 
-### Windows Support Toolkit
-Read-only PowerShell diagnostics for common Windows support checks, with a ticket-ready HTML health report.
-- Covers disk space, services, recent errors, network configuration, updates and software inventory.
-- Tested on a Windows 11 workstation; results and limitations are documented.
-- [View repository](https://github.com/Evaristus230/windows-support-toolkit)
+### [IT Support Troubleshooting Lab](https://github.com/Evaristus230/it-support-troubleshooting-lab)
+A local practice dashboard with fictional Windows, Linux and AWS access cases. The scenarios cover triage, evidence, documentation and escalation.
 
-### Windows Endpoint Security & Incident Response Lab
-A read-only Windows security baseline and bounded event-log review, supported by a fictional sign-in incident tabletop.
-- Baseline and event counts are documented from one workstation snapshot; event details require further context review.
-- The incident scenario is fictional. No real account incident was investigated.
-- [View lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
-- [**Cross-platform IT Support Lab**](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Cross-Platform-IT-Support-Lab) — interactive practice dashboard with fictional Windows, Ubuntu and AWS access scenarios, read-only evidence examples and interview notes.
+### [Windows Endpoint Security Lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
+A documented workstation baseline and bounded event review, alongside a fictional incident tabletop. The observations are limited to one workstation and the scenario is simulated.
 
-### Linux and Vulnerability Assessment Practice
-A Nessus lab covering scan review, vulnerability prioritisation and remediation reporting across Windows and Linux systems.
-- [View project](https://github.com/Evaristus230/Nessus-Lab-Scan-Project)
+## Skills
 
-## Skills in Progress
+- **Support:** Windows setup and troubleshooting, user accounts, printers, Google Workspace, backups and documentation
+- **Systems and tools:** Linux command line, PowerShell, Bash, Git and GitHub
+- **Networking:** IP addressing, DNS and DHCP fundamentals
+- **Further learning:** AWS account operations and vulnerability assessment with Nessus
 
-- **Operating systems:** Windows 10/11, Linux, Ubuntu
-- **Support and scripting:** PowerShell, Bash, endpoint diagnostics, event-log review, documentation
-- **Tools and workflow:** Git, GitHub, Wireshark, Nessus
-- **AWS learning path:** account fundamentals, IAM, EC2, VPC, S3, CloudTrail and CloudWatch
-
-I’m building and validating these skills through labs. I don’t present unverified tools or planned work as professional experience.
-
-## Learning Roadmap
-
-1. Strengthen Windows and Linux troubleshooting with repeatable support scenarios and clear ticket notes.
-2. Practise common service-desk workflows, customer communication and escalation decisions.
-3. Build AWS foundations, then deepen IAM, logging, monitoring and cloud security labs.
+My portfolio includes lab practice and simulated cases, clearly identified in each project.
 
 ## Education
 
-**Bachelor’s Degree in Computer Science**
+Bachelor of Science in Computer Science, Michael Okpara University of Agriculture, Umudike, Nigeria.
 
-Michael Okpara University of Agriculture, Umudike, Nigeria
-
-## Career Focus
-
-Seeking entry-level **IT Support, Help Desk or Service Desk** opportunities, including roles in Canada. Long term, I’m working toward **AWS Cloud Security**.
-
-## Contact
-
-- [Email](mailto:okwor4chidubem@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/okwor-evaristus-a83273147/)
-- [GitHub](https://github.com/Evaristus230)
+[Email](mailto:okwor4chidubem@gmail.com) · [LinkedIn](https://www.linkedin.com/in/okwor-evaristus-a83273147/)
