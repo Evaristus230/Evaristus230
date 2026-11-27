@@ -12,7 +12,7 @@ A PowerShell diagnostic that collects Windows system, disk, service, event and n
 ### [IT Support Troubleshooting Lab](https://github.com/Evaristus230/it-support-troubleshooting-lab)
 A local practice dashboard with fictional Windows, Linux and AWS access cases. The scenarios cover triage, evidence, documentation and escalation.
 
-### [Windows Endpoint Security Lab](https://github.com/Evaristus230/windows-support-toolkit/tree/main/Windows-Endpoint-Security-Incident-Response-Lab)
+### [Windows Endpoint Security Lab](https://github.com/Evaristus230/windows-endpoint-security-lab)
 A documented workstation baseline and bounded event review, alongside a fictional incident tabletop. The observations are limited to one workstation and the scenario is simulated.
 
 ## Skills
@@ -29,3 +29,4 @@ My portfolio includes lab practice and simulated cases, clearly identified in ea
 Bachelor of Science in Computer Science, Michael Okpara University of Agriculture, Umudike, Nigeria.
 
 [Email](mailto:okwor4chidubem@gmail.com) · [LinkedIn](https://www.linkedin.com/in/okwor-evaristus-a83273147/)
+
